@@ -1,0 +1,19 @@
+{
+  "name": "find-non-blocking-slot",
+  "version": "1.0.0",
+  "description": "find the non-blocking slot of the input array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyluongvan1998/Orient-test.git"
+  },
+  "author": "JackLuong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyluongvan1998/Orient-test/issues"
+  },
+  "homepage": "https://github.com/huyluongvan1998/Orient-test#readme"
+}
